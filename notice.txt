@@ -1,0 +1,24 @@
+================ Max Fee Day Worker ==================
+118	Worker 19	Day  	143409
+117	Worker 18	Day  	141812
+101	Worker 2	Day  	138257
+=============== Max Fee Nigth Worker =================
+102	Worker 3	Nigth	149944
+106	Worker 7	Nigth	146467
+109	Worker 10	Nigth	145363
+====================== Max Fee =======================
+100	Worker 1	Nigth	50375.5
+123	Worker 24	Nigth	59245.7
+119	Worker 20	Day  	60852
+================ Min Fee Day Worker ==================
+119	Worker 20	Day  	60852
+112	Worker 13	Day  	61944.5
+107	Worker 8	Day  	83690.2
+================ Min Fee Nigth Worker ================
+100	Worker 1	Nigth	50375.5
+123	Worker 24	Nigth	59245.7
+120	Worker 21	Nigth	63316
+================== Min Fee ===========================
+100	Worker 1	Nigth	50375.5
+123	Worker 24	Nigth	59245.7
+119	Worker 20	Day  	60852
